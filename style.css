@@ -504,7 +504,7 @@ button.collapse:hover, button.collapse.active{
 }
 .lower-footer{
 	width: 100%;
-	height: ;
+	height: 56px; ;
 	color: #fff;
 	font-size: 13px;
 	font-family: Roboto;
@@ -533,4 +533,14 @@ button.collapse:hover, button.collapse.active{
 }
 #footer-align-right a:hover{
 	color: #43b9e0;
+}
+
+.lower-footer{
+	width: 100%;
+	height: 56px; ;
+	color: #fff;
+	font-size: 13px;
+	font-family: Roboto;
+	font-weight: 300;
+	background: #112220;
 }
